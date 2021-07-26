@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/plate/static/js/main.49b57bb0.chunk.js",
-    "main.js.map": "/plate/static/js/main.49b57bb0.chunk.js.map",
+    "main.js": "/plate/static/js/main.13f21a94.chunk.js",
+    "main.js.map": "/plate/static/js/main.13f21a94.chunk.js.map",
     "runtime-main.js": "/plate/static/js/runtime-main.e61e3754.js",
     "runtime-main.js.map": "/plate/static/js/runtime-main.e61e3754.js.map",
     "static/js/2.181ca1d8.chunk.js": "/plate/static/js/2.181ca1d8.chunk.js",
     "static/js/2.181ca1d8.chunk.js.map": "/plate/static/js/2.181ca1d8.chunk.js.map",
     "index.html": "/plate/index.html",
-    "precache-manifest.12026c2559d898a7d23e61deed417fd1.js": "/plate/precache-manifest.12026c2559d898a7d23e61deed417fd1.js",
+    "precache-manifest.355c4e8ceae463c64d2bb2c8fef668ae.js": "/plate/precache-manifest.355c4e8ceae463c64d2bb2c8fef668ae.js",
     "service-worker.js": "/plate/service-worker.js",
     "static/js/2.181ca1d8.chunk.js.LICENSE.txt": "/plate/static/js/2.181ca1d8.chunk.js.LICENSE.txt",
     "static/media/doc-may-profile.jpg": "/plate/static/media/doc-may-profile.f927335d.jpg",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.e61e3754.js",
     "static/js/2.181ca1d8.chunk.js",
-    "static/js/main.49b57bb0.chunk.js"
+    "static/js/main.13f21a94.chunk.js"
   ]
 }
